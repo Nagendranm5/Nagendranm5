@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nagendranm5
-- 👀 I’m interested in front-end development, embedded development
+- 👀 I’m interested in front-end development,back-end development, embedded development
 - 🌱 I’m currently learning Electronics and Communication
 - 📫 How to reach me nagendransri3@gmail.com
 
